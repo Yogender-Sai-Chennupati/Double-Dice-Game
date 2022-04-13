@@ -1,2 +1,12 @@
-# Double-Dice-Game
-A game based on Java Script where two players can play consecutively based by following certain rules (Refer README file).
+# stack_dice_game
+A interesting dice rolling game built using advanced JS concepts , Html &amp; CSS .
+
+Running it locally ?
+-------------------------
+
+Dowload all the files and open the index.html . 
+
+Get -> ready -> to play :)
+
+
+
